@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lesson7</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidGlsZWswMDU5IiwiYSI6ImNrdDl3c29nMzFnMmIydmpwenZ3ZHVub3YifQ.FAcKqo-tCY_Om8BQbSz-vQ</string>
+</resources>
